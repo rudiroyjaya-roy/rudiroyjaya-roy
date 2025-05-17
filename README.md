@@ -28,8 +28,8 @@
 
 ### 🌐 Connect With Me
 
-- 📬 Email: rudiroyjaya.rrj@gmail.com
-- 📷 IG: [@rudiroyjaya](https://instagram.com/rudiroyjaya)
+- 📬 Email: rudiroyjaya.id@gmail.com
+- 📷 IG: [@rudiroyjaya0]([https://instagram.com/rudiroyjaya0](https://www.instagram.com/rudiroyjaya0?igsh=MTdoOTh0cnJhM3h5dA==))
 - 💼 LinkedIn: [linkedin.com/in/rudiroyjaya](https://linkedin.com/in/rudiroyjaya)
 
 ---
