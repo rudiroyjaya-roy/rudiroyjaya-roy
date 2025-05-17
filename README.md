@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hello World! I'm Rudi Roy Jaya 🚀
 
-<!--
-**rudiroyjaya-roy/rudiroyjaya-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 
-Here are some ideas to get you started:
+### 💻 Programmer | 🎨 Editor | 🌊 Swimmer IRL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tentang Gue
+
+- 🔧 Lulusan D3 Teknik Informatika — ngoding bukan cuma hobi, tapi gaya hidup.
+- 🌱 Lagi ngulik Laravel, JavaScript, sama MySQL biar makin nancep di dunia web dev.
+- 🎯 Fokus sekarang: bikin website belajar kosakata Korea dan project-project pribadi.
+
+---
+
+### ⚡ Skill Set
+
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **Framework**: Laravel (🔥)
+- **Database**: MySQL
+- **Tools**: VSCode, Git, Composer, PHPMailer
+- **Bonus**: Editing foto & video? Bisa banget.
+
+---
+
+### 🌐 Connect With Me
+
+- 📬 Email: rudiroyjaya.rrj@gmail.com
+- 📷 IG: [@rudiroyjaya](https://instagram.com/rudiroyjaya)
+- 💼 LinkedIn: [linkedin.com/in/rudiroyjaya](https://linkedin.com/in/rudiroyjaya)
+
+---
+
+### 🧩 Fun Fact
+
+> Gue bisa ngoding sambil nyanyi, main badminton, atau nyemplung ke kolam 😎
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,laravel,mysql,vscode,github" />
+</div>
