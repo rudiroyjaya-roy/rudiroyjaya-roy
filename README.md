@@ -4,14 +4,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-### 💻 Programmer | 🎨 Editor | 🌊 Swimmer IRL
+### 💻 Programmer | 🎨 Editor
 
 ---
 
 ### 🧠 Tentang Gue
 
 - 🔧 Lulusan D3 Teknik Informatika — ngoding bukan cuma hobi, tapi gaya hidup.
-- 🌱 Lagi ngulik Laravel, JavaScript, sama MySQL biar makin nancep di dunia web dev.
+- 🌱 Lagi ngulik react.js, JavaScript, sama MySQL biar makin nancep di dunia web dev.
 - 🎯 Fokus sekarang: bikin website belajar kosakata Korea dan project-project pribadi.
 
 ---
@@ -19,9 +19,9 @@
 ### ⚡ Skill Set
 
 - **Languages**: HTML, CSS, JavaScript, PHP
-- **Framework**: Laravel (🔥)
+- **Framework**: react.js, codeigniter, Laravel (🔥)
 - **Database**: MySQL
-- **Tools**: VSCode, Git, Composer, PHPMailer
+- **Tools**: VSCode, Git, Composer
 - **Bonus**: Editing foto & video? Bisa banget.
 
 ---
